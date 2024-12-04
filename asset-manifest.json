@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Card/static/js/main.b7a98911.js",
+    "static/js/453.ed3810f9.chunk.js": "/Card/static/js/453.ed3810f9.chunk.js",
+    "static/media/cardImage.jpg": "/Card/static/media/cardImage.4c2c0c922311270cffaf.jpg",
+    "index.html": "/Card/index.html",
+    "main.b7a98911.js.map": "/Card/static/js/main.b7a98911.js.map",
+    "453.ed3810f9.chunk.js.map": "/Card/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b7a98911.js"
+  ]
+}
